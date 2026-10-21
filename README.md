@@ -1,6 +1,7 @@
 ## Hi! I'm Italo 👋
 
 🌱 Currently a Higher Technical Diploma (CTeSP) Student in Agile Software Development at ISEP.
+<br><br/>
 📫 How to reach me: 1261905@isep.ipp.pt
 
 <!--
